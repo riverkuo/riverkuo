@@ -5,12 +5,17 @@ Front-End Engineer
 
 🛠 Skills
 ---
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,html,css,react,nextjs,redux,styledcomponents,nginx,jenkins&perline=5)
-
 <br/>
+1. html, js, ts, css
+<br/>
+2. react相關：react, nextjs, react-query, react-table, react-router-dom, redux, react-hook-form
+<br/>
+3. 部署相關：jenkins, nginx
+<br/>
+4. 其他：Zod, Yup, Mui, Shadcn, StyledComponent, Vite, Nx, TurboRepo, Jest, storybook, i18n
+<br/><br/>
 
-其他：Zod, Yup, Mui, Shadcn, Vite, Nx, Pnpm, Jest
-
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,html,css,react,nextjs,redux,styledcomponents,nginx,jenkins,reactquery,storybook&perline=10)
 
 
 <br/>
