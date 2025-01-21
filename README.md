@@ -5,7 +5,13 @@ Front-End Engineer
 
 🛠 Skills
 ---
-React.JS, TypeScript, Styled Components, Redux, HTML, CSS, JavaScript...
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,html,css,react,nextjs,redux,styledcomponents,nginx,jenkins&perline=5)
+
+<br/>
+
+其他：Zod, Yup, Mui, Shadcn, Vite, Nx, Pnpm, Jest
+
+
 
 <br/>
 
