@@ -24,14 +24,15 @@ Front-End Engineer
 
 <br/>
 
-📁 Repo Guide
+📁 Repo Guide - :globe_with_meridians: means public repo
 ---
 > ### Side Project
 
 | name  | status |
 | ----- | -------- |
+| UI library | `IN PROGRESS` |
 | pet tracker | `IN PROGRESS` |
-| [rooroomies](https://github.com/riverkuo/rooroomies) | `DONE` |
+|  :globe_with_meridians: [rooroomies](https://github.com/riverkuo/rooroomies) | `DONE` |
 
 ---
 
@@ -39,10 +40,10 @@ Front-End Engineer
 
 | name  | status |
 | ----- | -------- |
-| [next14](https://github.com/riverkuo/next14) | `IN PROGRESS` |
+| :globe_with_meridians: [next14](https://github.com/riverkuo/next14) | `IN PROGRESS` |
 | [react-practice](https://github.com/riverkuo/react-practice) | `DONE` |
-| [Linq](https://github.com/riverkuo/Linq) | `DONE` |
-| [kata](https://github.com/riverkuo/kata) | `DONE` |
+| :globe_with_meridians: [Linq](https://github.com/riverkuo/Linq) | `DONE` |
+| :globe_with_meridians: [kata](https://github.com/riverkuo/kata) | `DONE` |
 
 ---
 
@@ -50,7 +51,7 @@ Front-End Engineer
 
 | name  | status |
 | ----- | -------- |
-| [otwarchive](https://github.com/riverkuo/otwarchive) | `DONE` |
+| :globe_with_meridians: [otwarchive](https://github.com/riverkuo/otwarchive) | `DONE` |
 
 ---
 
@@ -58,7 +59,7 @@ Front-End Engineer
 
 | name  | status |
 | ----- | -------- |
-| [remote-assignment](https://github.com/riverkuo/remote-assignment) | `DONE` |
+| :globe_with_meridians: [remote-assignment](https://github.com/riverkuo/remote-assignment) | `DONE` |
 | [Front-End-Class-Batch17](https://github.com/riverkuo/Front-End-Class-Batch17) | `DONE` |
 | [Stylish-Front-End](https://github.com/riverkuo/Stylish-Front-End) | `DONE` |
 | [AWS-midterm](https://github.com/riverkuo/AWS-midterm) | `DONE` |
@@ -69,9 +70,9 @@ Front-End Engineer
 
 | name  | status |
 | ----- | -------- |
-| [PLANDY_test](https://github.com/riverkuo/PLANDY_test) | `DONE` |
-| [line-go](https://github.com/riverkuo/line-go) | `DONE` |
-| [counter-draw](https://github.com/riverkuo/counter-draw) | `DONE` |
+| :globe_with_meridians: [PLANDY_test](https://github.com/riverkuo/PLANDY_test) | `DONE` |
+| :globe_with_meridians: [line-go](https://github.com/riverkuo/line-go) | `DONE` |
+| :globe_with_meridians: [counter-draw](https://github.com/riverkuo/counter-draw) | `DONE` |
 
 ---
 
