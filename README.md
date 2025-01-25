@@ -1,7 +1,9 @@
-# Hi there 👋, I'm River Kuo
-Front-End Engineer
+# Hi there, I'm River Kuo 👋
+Front-End Engineer with 2 years experiences, welcome to my github!
 
 <br/>
+
+
 
 🛠 Skills
 ---
@@ -21,6 +23,12 @@ Front-End Engineer
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,html,css,react,nextjs,redux,styledcomponents,nginx,jenkins,reactquery,storybook&perline=10)
 
+
+<br/>
+
+:bookmark: Blog
+---
+[My blog](https://github.com/riverkuo/blog)
 
 <br/>
 
@@ -70,6 +78,7 @@ Front-End Engineer
 
 | name  | status |
 | ----- | -------- |
+| :globe_with_meridians: [My blog](https://github.com/riverkuo/blog) | `IN PROGRESS` |
 | :globe_with_meridians: [PLANDY_test](https://github.com/riverkuo/PLANDY_test) | `DONE` |
 | :globe_with_meridians: [line-go](https://github.com/riverkuo/line-go) | `DONE` |
 | :globe_with_meridians: [counter-draw](https://github.com/riverkuo/counter-draw) | `DONE` |
