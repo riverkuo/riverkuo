@@ -49,7 +49,7 @@ Front-End Engineer with 2 years experiences, welcome to my github!
 | name  | status |
 | ----- | -------- |
 | [next14](https://github.com/riverkuo/next14) :globe_with_meridians:| `IN PROGRESS` |
-| [react18](https://github.com/riverkuo/react18) | `IN PROGRESS` |
+| [react18](https://github.com/riverkuo/react18) :globe_with_meridians:| `IN PROGRESS` |
 | [Linq](https://github.com/riverkuo/Linq) :globe_with_meridians:|  `DONE` |
 | [kata](https://github.com/riverkuo/kata) :globe_with_meridians:| `DONE` |
 
