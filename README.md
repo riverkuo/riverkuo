@@ -38,7 +38,6 @@ Front-End Engineer with 2 years experiences, welcome to my github!
 
 | name  | status |
 | ----- | -------- |
-| UI library | `IN PROGRESS` |
 | pet tracker | `IN PROGRESS` |
 | [rooroomies](https://github.com/riverkuo/rooroomies) :globe_with_meridians:  | `DONE` |
 
